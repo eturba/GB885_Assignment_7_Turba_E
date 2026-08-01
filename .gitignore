@@ -1,0 +1,7 @@
+# Sensitive API tokens and keys
+bramble_api_token.json
+
+# Jupyter Notebook & OS system files
+.ipynb_checkpoints/
+.DS_Store
+*.env
